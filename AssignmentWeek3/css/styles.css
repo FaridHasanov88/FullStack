@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(47, 180, 201);
+}
+
+/** Navigation bar styling**/
+#header-nav {
+    background-color: rgb(13, 42, 41);
+    border-radius: 0;
+    border: 0;
+}
+.container{
+    width: 100%;
+}
+.container .navbar-brand{
+    padding: 0;
+    height: 60px;     
+}
+
+.navbar-brand h1 {
+    color:blanchedalmond;
+    font-size: 1.8em; 
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #222;
+    margin-left: 10px;
+}
+.navbar-brand:hover{
+    text-decoration: none;
+}
+
+#nav-list {
+    margin-top: 80px;
+    text-align: center;
+    
+}
+#nav-list span{
+    font-size: 1.8em;
+    text-align: center;
+    color: blanchedalmond;
+    border: 1px black;
+    padding: auto;
+}
+#nav-list span:hover {
+    background: #E7E7E7;
+}
+.navbar-toggle {
+    margin-top: 20px;
+}
+h2{
+    color: blanchedalmond;
+    font-size: 3em;
+}
+.Desc{
+    background-color: rgb(141, 190, 198);
+    font-size: 1.5em;
+    color: black;
+    width: 95%;
+    margin: auto;
+}
